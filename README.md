@@ -28,9 +28,9 @@ The top purposes for loans are 'debt_consolidation' at ₹237M, 'credit_card' at
 ### Verification Status: 
 Loans are categorized by verification status with ₹220M being verified and ₹142M not verified. This could indicate the bank's due diligence in loan approval processes and risk management.
 ### Client Details: 
-1.The bank has a total of 39,717 clients, with 34,522 inquiries made in the last 6 months. This suggests a high level of customer engagement and potential interest in loan products.
-
-2.Annual Income: The average annual income of clients is ₹68.97K, indicating the average earning level of the client base.
+1.The bank has a total of 39,917 c.
+2.There have been 34,516 inquiries in the last 6 months.
+3.The average annual income of clients is ₹68.97K, indicating the average earning level of the client.
 
 ### Client Income and Loan Amount Relationship: 
 There is a wide range of annual incomes among clients, from 4000 to 6000000. However, the loan amounts do not seem to be directly proportional to the annual income. For example, clients with an annual income of 200000 have taken loans ranging from 3,000 to 5,000, which are relatively small compared to their income.
