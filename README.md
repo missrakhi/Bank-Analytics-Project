@@ -3,6 +3,19 @@
 ## Problem Statement
 The goal is to evaluate the bank's loan portfolio performance and understand borrower behavior to inform strategic decision-making. The available data includes information on loan verification status, loan status, loan term, loan grade, issue year, and employment length. Additionally, client-specific details such as annual income, loan amount, interest rate, funded amount, total payment, installments, and remaining balance are provided.
 
+## Steps Taken
+1.	Imported 'finance 1' and 'finance 2' datasets into Power Bi and cleaned them using Power Query by removing unnecessary columns.
+   
+2.	Combined datasets using the 'id' column as a common key for data merging.
+   
+3.	Analyze loan performance based on verification status, loan grade, Trends in loan term and issue years using visualization.
+   
+4.	Analyze client-specific data to Identify patterns in annual income, loan amount, and interest rate for clients.
+   
+5.	Created a dashboard to present key insights to decision-makers.
+
+
+
 ## Snapshot
 ![Screenshot 2024-01-17 201903](https://github.com/missrakhi/Bank-Analytics-Project/assets/154977141/ea78eda2-bb20-460f-8d8f-7503d61b0494)
 
